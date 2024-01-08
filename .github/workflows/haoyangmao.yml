@@ -1,4 +1,4 @@
-name: haoyangmao
+name: Haoyangmao
 
 on:
   workflow_dispatch:
